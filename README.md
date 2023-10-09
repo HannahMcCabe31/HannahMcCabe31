@@ -4,5 +4,5 @@
 
 👨‍💻 I'm currently immersing myself in the dynamic world of web development as a full-time student at the School of Code Bootcamp. I have a particular interest in Javascript and creating stylish, user friendly front-end experiences. I love the creative process of turning ideas and plans into interactive web interfaces that engage and captivate users.
 
-🌐 As I continue my web development journey, I'm eager to connect with fellow developers, designers, and tech enthusiasts! 🚀
+🌐 As I continue my web development journey, I'm keen to connect with fellow developers, designers, and tech enthusiasts! 🚀
 
